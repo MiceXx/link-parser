@@ -1,3 +1,3 @@
-﻿# link-parser
+﻿# linkparser
 
-Usage: go get github.com/MiceXx/link-parser
+Usage: go get github.com/MiceXx/linkparser
