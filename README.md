@@ -1,7 +1,7 @@
 ﻿# linkparser
 
 __Usage:__ 
-```go get github.com/MiceXx/link-parser```
+```go get github.com/MiceXx/linkparser```
 
 ```
 parser.Parse(r io.Reader)
