@@ -1,4 +1,4 @@
-module linkparser
+module github.com/MiceXx/link-parser
 
 go 1.12
 
